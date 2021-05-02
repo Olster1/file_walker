@@ -1,0 +1,553 @@
+Yoga_Pose_Baby_Cobra,
+Yoga_Pose_Balancing_Table,
+Yoga_Pose_Banana,
+Yoga_Pose_bharadvajas_twist,
+Yoga_Pose_Boat_version,
+Yoga_Pose_Boat,
+Yoga_Pose_Bound_Lotus,
+Yoga_Pose_Bound_Revolved_Side_Angle,
+Yoga_Pose_Bow,
+Yoga_Pose_Bridge,
+Yoga_Pose_Butterfly_version,
+Yoga_Pose_Butterfly,
+Yoga_Pose_Camel,
+Yoga_Pose_Cat,
+Yoga_Pose_Caterpillar,
+Yoga_Pose_Chair_Twist,
+Yoga_Pose_Chair,
+Yoga_Pose_Chaturanga,
+Yoga_Pose_Childs_version,
+Yoga_Pose_Childs,
+Yoga_Pose_Cobra,
+Yoga_Pose_Corpse,
+Yoga_Pose_Cow_Face_version,
+Yoga_Pose_Cow_Face,
+Yoga_Pose_Cow,
+Yoga_Pose_Crescent_Lunge_with_Backbend,
+Yoga_Pose_Crescent_Lunge,
+Yoga_Pose_Crow,
+Yoga_Pose_Dancer,
+Yoga_Pose_Deer,
+Yoga_Pose_Dolphin,
+Yoga_Pose_Downward_Facing_Dog,
+Yoga_Pose_Dragon_yin,
+Yoga_Pose_Dragonfly_yin_II,
+Yoga_Pose_Dragonfly_yin,
+Yoga_Pose_Dragonfly,
+Yoga_Pose_Eagle,
+Yoga_Pose_Easy_Side_Bend,
+Yoga_Pose_Easy_Side_view,
+Yoga_Pose_Easy_Twist,
+Yoga_Pose_Easy,
+Yoga_Pose_Eight_Angle_head_version,
+Yoga_Pose_Eight_Angle,
+Yoga_Pose_Eight_Limbed_Salutation,
+Yoga_Pose_Elephants_Trunk,
+Yoga_Pose_Extended_Hand_to_Big_Toe,
+Yoga_Pose_Extended_Puppy,
+Yoga_Pose_Extended_Side_Angle,
+Yoga_Pose_Firefly_Prep,
+Yoga_Pose_Firefly_version,
+Yoga_Pose_Firefly,
+Yoga_Pose_Firelog,
+Yoga_Pose_Fish_version,
+Yoga_Pose_Fish,
+Yoga_Pose_Flamingo,
+Yoga_Pose_Flying_Crow,
+Yoga_Pose_Flying_Monkey,
+Yoga_Pose_Flying_Pigeon,
+Yoga_Pose_Flying_Warrior,
+Yoga_Pose_Forearm_Plank,
+Yoga_Pose_Forearm_Stand_with_Stag_Legs,
+Yoga_Pose_Forearm_Stand,
+Yoga_Pose_Forward_Fold_version_I,
+Yoga_Pose_Forward_Fold_version_II,
+Yoga_Pose_Forward_Fold_version_III,
+Yoga_Pose_Forward_Fold_version,
+Yoga_Pose_Forward_Fold,
+Yoga_Pose_Frog,
+Yoga_Pose_Garland,
+Yoga_Pose_Gate,
+Yoga_Pose_Goddess,
+Yoga_Pose_Half_Frog,
+Yoga_Pose_Half_Lord_of_the_Fishes,
+Yoga_Pose_Half_Moon,
+Yoga_Pose_Half_Plank,
+Yoga_Pose_Half_Split,
+Yoga_Pose_Handstand,
+Yoga_Pose_Happy_Baby,
+Yoga_Pose_Headstand,
+Yoga_Pose_Hero,
+Yoga_Pose_Heron,
+Yoga_Pose_High_Lunge_Twist,
+Yoga_Pose_High_Lunge,
+Yoga_Pose_Humble_Warrior,
+Yoga_Pose_Hurdler,
+Yoga_Pose_Knee_to_Nose,
+Yoga_Pose_Knees_to_Chest,
+Yoga_Pose_Legs_up_the_Wall,
+Yoga_Pose_Lizard,
+Yoga_Pose_Locust,
+Yoga_Pose_Lotus_in_Shoulder_Stand,
+Yoga_Pose_Lotus_version,
+Yoga_Pose_Lotus,
+Yoga_Pose_Low_Lunge,
+Yoga_Pose_Mermaid,
+Yoga_Pose_Monkey,
+Yoga_Pose_Mountain,
+Yoga_Pose_Noose,
+Yoga_Pose_One_Legged_Forward_Fold,
+Yoga_Pose_One_Legged_King_Pigeon,
+Yoga_Pose_One_Legged_Pigeon,
+Yoga_Pose_Peacock,
+Yoga_Pose_Pentacle,
+Yoga_Pose_Pigeon_Standing_Squat,
+Yoga_Pose_Pigeon,
+Yoga_Pose_Plank,
+Yoga_Pose_Plow_version,
+Yoga_Pose_Plow,
+Yoga_Pose_Pose_Dedicated_to_the_Sage_Marichi_I,
+Yoga_Pose_Pose_Dedicated_to_the_Sage_Marichi_II,
+Yoga_Pose_Pyramid_version,
+Yoga_Pose_Pyramid,
+Yoga_Pose_Rabbit,
+Yoga_Pose_Reclined_One_Leg_Stretch,
+Yoga_Pose_Reclining_Bound_Angle,
+Yoga_Pose_Reclining_Butterfly,
+Yoga_Pose_Reclining_Hand_to_Big_Toe,
+Yoga_Pose_Reclining_Pigeon,
+Yoga_Pose_Reclining_Spinal_Twist,
+Yoga_Pose_Reverse_Table_Top,
+Yoga_Pose_Reverse_Warrior,
+Yoga_Pose_Revolved_Chair_version,
+Yoga_Pose_Revolved_Chair,
+Yoga_Pose_Revolved_Half_Moon,
+Yoga_Pose_Revolved_Hand_to_Big_Toe,
+Yoga_Pose_Revolved_Head_to_Knee,
+Yoga_Pose_Revolved_Side_Angle,
+Yoga_Pose_Revolved_Triangle,
+Yoga_Pose_Saddle,
+Yoga_Pose_Scale,
+Yoga_Pose_Scorpion,
+Yoga_Pose_Seal,
+Yoga_Pose_Seated_Forward_Bend,
+Yoga_Pose_Seated_Forward_Fold,
+Yoga_Pose_Seated_Spinal_Twist,
+Yoga_Pose_Seated_Straddle,
+Yoga_Pose_Shoelace,
+Yoga_Pose_Shoulder_Pressing,
+Yoga_Pose_Shoulder_Stand,
+Yoga_Pose_Side_Angle,
+Yoga_Pose_Side_Crow,
+Yoga_Pose_Side_Plank_version,
+Yoga_Pose_Side_Plank,
+Yoga_Pose_Side_Reclining_Leg_Lift,
+Yoga_Pose_Sleeping_Swan,
+Yoga_Pose_Snail,
+Yoga_Pose_Sphinx,
+Yoga_Pose_Square,
+Yoga_Pose_Staff,
+Yoga_Pose_Standing_Back_Bend,
+Yoga_Pose_Standing_Bow,
+Yoga_Pose_Standing_Hand_to_Big_Toe,
+Yoga_Pose_Standing_Prayer,
+Yoga_Pose_Standing_Side_Bend,
+Yoga_Pose_Standing_Split,
+Yoga_Pose_Supine_Twist,
+Yoga_Pose_Supported_Shoulder_Stand,
+Yoga_Pose_Table,
+Yoga_Pose_Temple_Twist,
+Yoga_Pose_Thread_the_Needle,
+Yoga_Pose_Three_Legged_Dog,
+Yoga_Pose_Three_Limbed_Forward_Bend,
+Yoga_Pose_Tiger,
+Yoga_Pose_Toe_Squat,
+Yoga_Pose_Toe_Stand_Garland,
+Yoga_Pose_Toe_Stand,
+Yoga_Pose_Tree_version_I,
+Yoga_Pose_Tree_version,
+Yoga_Pose_Tree,
+Yoga_Pose_Triangle,
+Yoga_Pose_Tripod,
+Yoga_Pose_Upward_Facing_Dog,
+Yoga_Pose_Upward_Facing_Two_Foot_Staff,
+Yoga_Pose_Upward_Plank,
+Yoga_Pose_Warrior_I,
+Yoga_Pose_Warrior_II,
+Yoga_Pose_Warrior_III_with_Airplane_Arms,
+Yoga_Pose_Warrior_III,
+Yoga_Pose_Wheel_version,
+Yoga_Pose_Wheel,
+Yoga_Pose_Wide_Legged_Boat,
+Yoga_Pose_Wide_Legged_Forward_Fold_version,
+Yoga_Pose_Wide_Legged_Forward_Fold,
+Yoga_Pose_Wild_Thing,
+yogaSprites[0] = (Sprite)(a.objs[1]);
+yogaSprites[1] = (Sprite)(a.objs[3]);
+yogaSprites[2] = (Sprite)(a.objs[5]);
+yogaSprites[3] = (Sprite)(a.objs[7]);
+yogaSprites[4] = (Sprite)(a.objs[9]);
+yogaSprites[5] = (Sprite)(a.objs[11]);
+yogaSprites[6] = (Sprite)(a.objs[13]);
+yogaSprites[7] = (Sprite)(a.objs[15]);
+yogaSprites[8] = (Sprite)(a.objs[17]);
+yogaSprites[9] = (Sprite)(a.objs[19]);
+yogaSprites[10] = (Sprite)(a.objs[21]);
+yogaSprites[11] = (Sprite)(a.objs[23]);
+yogaSprites[12] = (Sprite)(a.objs[25]);
+yogaSprites[13] = (Sprite)(a.objs[27]);
+yogaSprites[14] = (Sprite)(a.objs[29]);
+yogaSprites[15] = (Sprite)(a.objs[31]);
+yogaSprites[16] = (Sprite)(a.objs[33]);
+yogaSprites[17] = (Sprite)(a.objs[35]);
+yogaSprites[18] = (Sprite)(a.objs[37]);
+yogaSprites[19] = (Sprite)(a.objs[39]);
+yogaSprites[20] = (Sprite)(a.objs[41]);
+yogaSprites[21] = (Sprite)(a.objs[43]);
+yogaSprites[22] = (Sprite)(a.objs[45]);
+yogaSprites[23] = (Sprite)(a.objs[47]);
+yogaSprites[24] = (Sprite)(a.objs[49]);
+yogaSprites[25] = (Sprite)(a.objs[51]);
+yogaSprites[26] = (Sprite)(a.objs[53]);
+yogaSprites[27] = (Sprite)(a.objs[55]);
+yogaSprites[28] = (Sprite)(a.objs[57]);
+yogaSprites[29] = (Sprite)(a.objs[59]);
+yogaSprites[30] = (Sprite)(a.objs[61]);
+yogaSprites[31] = (Sprite)(a.objs[63]);
+yogaSprites[32] = (Sprite)(a.objs[65]);
+yogaSprites[33] = (Sprite)(a.objs[67]);
+yogaSprites[34] = (Sprite)(a.objs[69]);
+yogaSprites[35] = (Sprite)(a.objs[71]);
+yogaSprites[36] = (Sprite)(a.objs[73]);
+yogaSprites[37] = (Sprite)(a.objs[75]);
+yogaSprites[38] = (Sprite)(a.objs[77]);
+yogaSprites[39] = (Sprite)(a.objs[79]);
+yogaSprites[40] = (Sprite)(a.objs[81]);
+yogaSprites[41] = (Sprite)(a.objs[83]);
+yogaSprites[42] = (Sprite)(a.objs[85]);
+yogaSprites[43] = (Sprite)(a.objs[87]);
+yogaSprites[44] = (Sprite)(a.objs[89]);
+yogaSprites[45] = (Sprite)(a.objs[91]);
+yogaSprites[46] = (Sprite)(a.objs[93]);
+yogaSprites[47] = (Sprite)(a.objs[95]);
+yogaSprites[48] = (Sprite)(a.objs[97]);
+yogaSprites[49] = (Sprite)(a.objs[99]);
+yogaSprites[50] = (Sprite)(a.objs[101]);
+yogaSprites[51] = (Sprite)(a.objs[103]);
+yogaSprites[52] = (Sprite)(a.objs[105]);
+yogaSprites[53] = (Sprite)(a.objs[107]);
+yogaSprites[54] = (Sprite)(a.objs[109]);
+yogaSprites[55] = (Sprite)(a.objs[111]);
+yogaSprites[56] = (Sprite)(a.objs[113]);
+yogaSprites[57] = (Sprite)(a.objs[115]);
+yogaSprites[58] = (Sprite)(a.objs[117]);
+yogaSprites[59] = (Sprite)(a.objs[119]);
+yogaSprites[60] = (Sprite)(a.objs[121]);
+yogaSprites[61] = (Sprite)(a.objs[123]);
+yogaSprites[62] = (Sprite)(a.objs[125]);
+yogaSprites[63] = (Sprite)(a.objs[127]);
+yogaSprites[64] = (Sprite)(a.objs[129]);
+yogaSprites[65] = (Sprite)(a.objs[131]);
+yogaSprites[66] = (Sprite)(a.objs[133]);
+yogaSprites[67] = (Sprite)(a.objs[135]);
+yogaSprites[68] = (Sprite)(a.objs[137]);
+yogaSprites[69] = (Sprite)(a.objs[139]);
+yogaSprites[70] = (Sprite)(a.objs[141]);
+yogaSprites[71] = (Sprite)(a.objs[143]);
+yogaSprites[72] = (Sprite)(a.objs[145]);
+yogaSprites[73] = (Sprite)(a.objs[147]);
+yogaSprites[74] = (Sprite)(a.objs[149]);
+yogaSprites[75] = (Sprite)(a.objs[151]);
+yogaSprites[76] = (Sprite)(a.objs[153]);
+yogaSprites[77] = (Sprite)(a.objs[155]);
+yogaSprites[78] = (Sprite)(a.objs[157]);
+yogaSprites[79] = (Sprite)(a.objs[159]);
+yogaSprites[80] = (Sprite)(a.objs[161]);
+yogaSprites[81] = (Sprite)(a.objs[163]);
+yogaSprites[82] = (Sprite)(a.objs[165]);
+yogaSprites[83] = (Sprite)(a.objs[167]);
+yogaSprites[84] = (Sprite)(a.objs[169]);
+yogaSprites[85] = (Sprite)(a.objs[171]);
+yogaSprites[86] = (Sprite)(a.objs[173]);
+yogaSprites[87] = (Sprite)(a.objs[175]);
+yogaSprites[88] = (Sprite)(a.objs[177]);
+yogaSprites[89] = (Sprite)(a.objs[179]);
+yogaSprites[90] = (Sprite)(a.objs[181]);
+yogaSprites[91] = (Sprite)(a.objs[183]);
+yogaSprites[92] = (Sprite)(a.objs[185]);
+yogaSprites[93] = (Sprite)(a.objs[187]);
+yogaSprites[94] = (Sprite)(a.objs[189]);
+yogaSprites[95] = (Sprite)(a.objs[191]);
+yogaSprites[96] = (Sprite)(a.objs[193]);
+yogaSprites[97] = (Sprite)(a.objs[195]);
+yogaSprites[98] = (Sprite)(a.objs[197]);
+yogaSprites[99] = (Sprite)(a.objs[199]);
+yogaSprites[100] = (Sprite)(a.objs[201]);
+yogaSprites[101] = (Sprite)(a.objs[203]);
+yogaSprites[102] = (Sprite)(a.objs[205]);
+yogaSprites[103] = (Sprite)(a.objs[207]);
+yogaSprites[104] = (Sprite)(a.objs[209]);
+yogaSprites[105] = (Sprite)(a.objs[211]);
+yogaSprites[106] = (Sprite)(a.objs[213]);
+yogaSprites[107] = (Sprite)(a.objs[215]);
+yogaSprites[108] = (Sprite)(a.objs[217]);
+yogaSprites[109] = (Sprite)(a.objs[219]);
+yogaSprites[110] = (Sprite)(a.objs[221]);
+yogaSprites[111] = (Sprite)(a.objs[223]);
+yogaSprites[112] = (Sprite)(a.objs[225]);
+yogaSprites[113] = (Sprite)(a.objs[227]);
+yogaSprites[114] = (Sprite)(a.objs[229]);
+yogaSprites[115] = (Sprite)(a.objs[231]);
+yogaSprites[116] = (Sprite)(a.objs[233]);
+yogaSprites[117] = (Sprite)(a.objs[235]);
+yogaSprites[118] = (Sprite)(a.objs[237]);
+yogaSprites[119] = (Sprite)(a.objs[239]);
+yogaSprites[120] = (Sprite)(a.objs[241]);
+yogaSprites[121] = (Sprite)(a.objs[243]);
+yogaSprites[122] = (Sprite)(a.objs[245]);
+yogaSprites[123] = (Sprite)(a.objs[247]);
+yogaSprites[124] = (Sprite)(a.objs[249]);
+yogaSprites[125] = (Sprite)(a.objs[251]);
+yogaSprites[126] = (Sprite)(a.objs[253]);
+yogaSprites[127] = (Sprite)(a.objs[255]);
+yogaSprites[128] = (Sprite)(a.objs[257]);
+yogaSprites[129] = (Sprite)(a.objs[259]);
+yogaSprites[130] = (Sprite)(a.objs[261]);
+yogaSprites[131] = (Sprite)(a.objs[263]);
+yogaSprites[132] = (Sprite)(a.objs[265]);
+yogaSprites[133] = (Sprite)(a.objs[267]);
+yogaSprites[134] = (Sprite)(a.objs[269]);
+yogaSprites[135] = (Sprite)(a.objs[271]);
+yogaSprites[136] = (Sprite)(a.objs[273]);
+yogaSprites[137] = (Sprite)(a.objs[275]);
+yogaSprites[138] = (Sprite)(a.objs[277]);
+yogaSprites[139] = (Sprite)(a.objs[279]);
+yogaSprites[140] = (Sprite)(a.objs[281]);
+yogaSprites[141] = (Sprite)(a.objs[283]);
+yogaSprites[142] = (Sprite)(a.objs[285]);
+yogaSprites[143] = (Sprite)(a.objs[287]);
+yogaSprites[144] = (Sprite)(a.objs[289]);
+yogaSprites[145] = (Sprite)(a.objs[291]);
+yogaSprites[146] = (Sprite)(a.objs[293]);
+yogaSprites[147] = (Sprite)(a.objs[295]);
+yogaSprites[148] = (Sprite)(a.objs[297]);
+yogaSprites[149] = (Sprite)(a.objs[299]);
+yogaSprites[150] = (Sprite)(a.objs[301]);
+yogaSprites[151] = (Sprite)(a.objs[303]);
+yogaSprites[152] = (Sprite)(a.objs[305]);
+yogaSprites[153] = (Sprite)(a.objs[307]);
+yogaSprites[154] = (Sprite)(a.objs[309]);
+yogaSprites[155] = (Sprite)(a.objs[311]);
+yogaSprites[156] = (Sprite)(a.objs[313]);
+yogaSprites[157] = (Sprite)(a.objs[315]);
+yogaSprites[158] = (Sprite)(a.objs[317]);
+yogaSprites[159] = (Sprite)(a.objs[319]);
+yogaSprites[160] = (Sprite)(a.objs[321]);
+yogaSprites[161] = (Sprite)(a.objs[323]);
+yogaSprites[162] = (Sprite)(a.objs[325]);
+yogaSprites[163] = (Sprite)(a.objs[327]);
+yogaSprites[164] = (Sprite)(a.objs[329]);
+yogaSprites[165] = (Sprite)(a.objs[331]);
+yogaSprites[166] = (Sprite)(a.objs[333]);
+yogaSprites[167] = (Sprite)(a.objs[335]);
+yogaSprites[168] = (Sprite)(a.objs[337]);
+yogaSprites[169] = (Sprite)(a.objs[339]);
+yogaSprites[170] = (Sprite)(a.objs[341]);
+yogaSprites[171] = (Sprite)(a.objs[343]);
+yogaSprites[172] = (Sprite)(a.objs[345]);
+yogaSprites[173] = (Sprite)(a.objs[347]);
+yogaSprites[174] = (Sprite)(a.objs[349]);
+yogaSprites[175] = (Sprite)(a.objs[351]);
+yogaSprites[176] = (Sprite)(a.objs[353]);
+yogaSprites[177] = (Sprite)(a.objs[355]);
+yogaSprites[178] = (Sprite)(a.objs[357]);
+yogaSprites[179] = (Sprite)(a.objs[359]);
+yogaSprites[180] = (Sprite)(a.objs[361]);
+yogaSprites[181] = (Sprite)(a.objs[363]);
+yogaSprites[182] = (Sprite)(a.objs[365]);
+yogaSprites[183] = (Sprite)(a.objs[367]);
+poses = new YogaPose[184];
+poses[0] = new YogaPose("", "Baby Cobra", gameController.yogaSprites[0], null, YogaPoseType.Yoga_Pose_Baby_Cobra, false);
+poses[1] = new YogaPose("", "Balancing Table", gameController.yogaSprites[1], null, YogaPoseType.Yoga_Pose_Balancing_Table, false);
+poses[2] = new YogaPose("", "Banana", gameController.yogaSprites[2], null, YogaPoseType.Yoga_Pose_Banana, false);
+poses[3] = new YogaPose("", "bharadvajas twist", gameController.yogaSprites[3], null, YogaPoseType.Yoga_Pose_bharadvajas_twist, false);
+poses[4] = new YogaPose("", "Boat version", gameController.yogaSprites[4], null, YogaPoseType.Yoga_Pose_Boat_version, false);
+poses[5] = new YogaPose("", "Boat", gameController.yogaSprites[5], null, YogaPoseType.Yoga_Pose_Boat, false);
+poses[6] = new YogaPose("", "Bound Lotus", gameController.yogaSprites[6], null, YogaPoseType.Yoga_Pose_Bound_Lotus, false);
+poses[7] = new YogaPose("", "Bound Revolved Side Angle", gameController.yogaSprites[7], null, YogaPoseType.Yoga_Pose_Bound_Revolved_Side_Angle, false);
+poses[8] = new YogaPose("", "Bow", gameController.yogaSprites[8], null, YogaPoseType.Yoga_Pose_Bow, false);
+poses[9] = new YogaPose("", "Bridge", gameController.yogaSprites[9], null, YogaPoseType.Yoga_Pose_Bridge, false);
+poses[10] = new YogaPose("", "Butterfly version", gameController.yogaSprites[10], null, YogaPoseType.Yoga_Pose_Butterfly_version, false);
+poses[11] = new YogaPose("", "Butterfly", gameController.yogaSprites[11], null, YogaPoseType.Yoga_Pose_Butterfly, false);
+poses[12] = new YogaPose("", "Camel", gameController.yogaSprites[12], null, YogaPoseType.Yoga_Pose_Camel, false);
+poses[13] = new YogaPose("", "Cat", gameController.yogaSprites[13], null, YogaPoseType.Yoga_Pose_Cat, false);
+poses[14] = new YogaPose("", "Caterpillar", gameController.yogaSprites[14], null, YogaPoseType.Yoga_Pose_Caterpillar, false);
+poses[15] = new YogaPose("", "Chair Twist", gameController.yogaSprites[15], null, YogaPoseType.Yoga_Pose_Chair_Twist, false);
+poses[16] = new YogaPose("", "Chair", gameController.yogaSprites[16], null, YogaPoseType.Yoga_Pose_Chair, false);
+poses[17] = new YogaPose("", "Chaturanga", gameController.yogaSprites[17], null, YogaPoseType.Yoga_Pose_Chaturanga, false);
+poses[18] = new YogaPose("", "Childs version", gameController.yogaSprites[18], null, YogaPoseType.Yoga_Pose_Childs_version, false);
+poses[19] = new YogaPose("", "Childs", gameController.yogaSprites[19], null, YogaPoseType.Yoga_Pose_Childs, false);
+poses[20] = new YogaPose("", "Cobra", gameController.yogaSprites[20], null, YogaPoseType.Yoga_Pose_Cobra, false);
+poses[21] = new YogaPose("", "Corpse", gameController.yogaSprites[21], null, YogaPoseType.Yoga_Pose_Corpse, false);
+poses[22] = new YogaPose("", "Cow Face version", gameController.yogaSprites[22], null, YogaPoseType.Yoga_Pose_Cow_Face_version, false);
+poses[23] = new YogaPose("", "Cow Face", gameController.yogaSprites[23], null, YogaPoseType.Yoga_Pose_Cow_Face, false);
+poses[24] = new YogaPose("", "Cow", gameController.yogaSprites[24], null, YogaPoseType.Yoga_Pose_Cow, false);
+poses[25] = new YogaPose("", "Crescent Lunge with Backbend", gameController.yogaSprites[25], null, YogaPoseType.Yoga_Pose_Crescent_Lunge_with_Backbend, false);
+poses[26] = new YogaPose("", "Crescent Lunge", gameController.yogaSprites[26], null, YogaPoseType.Yoga_Pose_Crescent_Lunge, false);
+poses[27] = new YogaPose("", "Crow", gameController.yogaSprites[27], null, YogaPoseType.Yoga_Pose_Crow, false);
+poses[28] = new YogaPose("", "Dancer", gameController.yogaSprites[28], null, YogaPoseType.Yoga_Pose_Dancer, false);
+poses[29] = new YogaPose("", "Deer", gameController.yogaSprites[29], null, YogaPoseType.Yoga_Pose_Deer, false);
+poses[30] = new YogaPose("", "Dolphin", gameController.yogaSprites[30], null, YogaPoseType.Yoga_Pose_Dolphin, false);
+poses[31] = new YogaPose("", "Downward Facing Dog", gameController.yogaSprites[31], null, YogaPoseType.Yoga_Pose_Downward_Facing_Dog, false);
+poses[32] = new YogaPose("", "Dragon yin", gameController.yogaSprites[32], null, YogaPoseType.Yoga_Pose_Dragon_yin, false);
+poses[33] = new YogaPose("", "Dragonfly yin II", gameController.yogaSprites[33], null, YogaPoseType.Yoga_Pose_Dragonfly_yin_II, false);
+poses[34] = new YogaPose("", "Dragonfly yin", gameController.yogaSprites[34], null, YogaPoseType.Yoga_Pose_Dragonfly_yin, false);
+poses[35] = new YogaPose("", "Dragonfly", gameController.yogaSprites[35], null, YogaPoseType.Yoga_Pose_Dragonfly, false);
+poses[36] = new YogaPose("", "Eagle", gameController.yogaSprites[36], null, YogaPoseType.Yoga_Pose_Eagle, false);
+poses[37] = new YogaPose("", "Easy Side Bend", gameController.yogaSprites[37], null, YogaPoseType.Yoga_Pose_Easy_Side_Bend, false);
+poses[38] = new YogaPose("", "Easy Side view", gameController.yogaSprites[38], null, YogaPoseType.Yoga_Pose_Easy_Side_view, false);
+poses[39] = new YogaPose("", "Easy Twist", gameController.yogaSprites[39], null, YogaPoseType.Yoga_Pose_Easy_Twist, false);
+poses[40] = new YogaPose("", "Easy", gameController.yogaSprites[40], null, YogaPoseType.Yoga_Pose_Easy, false);
+poses[41] = new YogaPose("", "Eight Angle head version", gameController.yogaSprites[41], null, YogaPoseType.Yoga_Pose_Eight_Angle_head_version, false);
+poses[42] = new YogaPose("", "Eight Angle", gameController.yogaSprites[42], null, YogaPoseType.Yoga_Pose_Eight_Angle, false);
+poses[43] = new YogaPose("", "Eight Limbed Salutation", gameController.yogaSprites[43], null, YogaPoseType.Yoga_Pose_Eight_Limbed_Salutation, false);
+poses[44] = new YogaPose("", "Elephants Trunk", gameController.yogaSprites[44], null, YogaPoseType.Yoga_Pose_Elephants_Trunk, false);
+poses[45] = new YogaPose("", "Extended Hand to Big Toe", gameController.yogaSprites[45], null, YogaPoseType.Yoga_Pose_Extended_Hand_to_Big_Toe, false);
+poses[46] = new YogaPose("", "Extended Puppy", gameController.yogaSprites[46], null, YogaPoseType.Yoga_Pose_Extended_Puppy, false);
+poses[47] = new YogaPose("", "Extended Side Angle", gameController.yogaSprites[47], null, YogaPoseType.Yoga_Pose_Extended_Side_Angle, false);
+poses[48] = new YogaPose("", "Firefly Prep", gameController.yogaSprites[48], null, YogaPoseType.Yoga_Pose_Firefly_Prep, false);
+poses[49] = new YogaPose("", "Firefly version", gameController.yogaSprites[49], null, YogaPoseType.Yoga_Pose_Firefly_version, false);
+poses[50] = new YogaPose("", "Firefly", gameController.yogaSprites[50], null, YogaPoseType.Yoga_Pose_Firefly, false);
+poses[51] = new YogaPose("", "Firelog", gameController.yogaSprites[51], null, YogaPoseType.Yoga_Pose_Firelog, false);
+poses[52] = new YogaPose("", "Fish version", gameController.yogaSprites[52], null, YogaPoseType.Yoga_Pose_Fish_version, false);
+poses[53] = new YogaPose("", "Fish", gameController.yogaSprites[53], null, YogaPoseType.Yoga_Pose_Fish, false);
+poses[54] = new YogaPose("", "Flamingo", gameController.yogaSprites[54], null, YogaPoseType.Yoga_Pose_Flamingo, false);
+poses[55] = new YogaPose("", "Flying Crow", gameController.yogaSprites[55], null, YogaPoseType.Yoga_Pose_Flying_Crow, false);
+poses[56] = new YogaPose("", "Flying Monkey", gameController.yogaSprites[56], null, YogaPoseType.Yoga_Pose_Flying_Monkey, false);
+poses[57] = new YogaPose("", "Flying Pigeon", gameController.yogaSprites[57], null, YogaPoseType.Yoga_Pose_Flying_Pigeon, false);
+poses[58] = new YogaPose("", "Flying Warrior", gameController.yogaSprites[58], null, YogaPoseType.Yoga_Pose_Flying_Warrior, false);
+poses[59] = new YogaPose("", "Forearm Plank", gameController.yogaSprites[59], null, YogaPoseType.Yoga_Pose_Forearm_Plank, false);
+poses[60] = new YogaPose("", "Forearm Stand with Stag Legs", gameController.yogaSprites[60], null, YogaPoseType.Yoga_Pose_Forearm_Stand_with_Stag_Legs, false);
+poses[61] = new YogaPose("", "Forearm Stand", gameController.yogaSprites[61], null, YogaPoseType.Yoga_Pose_Forearm_Stand, false);
+poses[62] = new YogaPose("", "Forward Fold version I", gameController.yogaSprites[62], null, YogaPoseType.Yoga_Pose_Forward_Fold_version_I, false);
+poses[63] = new YogaPose("", "Forward Fold version II", gameController.yogaSprites[63], null, YogaPoseType.Yoga_Pose_Forward_Fold_version_II, false);
+poses[64] = new YogaPose("", "Forward Fold version III", gameController.yogaSprites[64], null, YogaPoseType.Yoga_Pose_Forward_Fold_version_III, false);
+poses[65] = new YogaPose("", "Forward Fold version", gameController.yogaSprites[65], null, YogaPoseType.Yoga_Pose_Forward_Fold_version, false);
+poses[66] = new YogaPose("", "Forward Fold", gameController.yogaSprites[66], null, YogaPoseType.Yoga_Pose_Forward_Fold, false);
+poses[67] = new YogaPose("", "Frog", gameController.yogaSprites[67], null, YogaPoseType.Yoga_Pose_Frog, false);
+poses[68] = new YogaPose("", "Garland", gameController.yogaSprites[68], null, YogaPoseType.Yoga_Pose_Garland, false);
+poses[69] = new YogaPose("", "Gate", gameController.yogaSprites[69], null, YogaPoseType.Yoga_Pose_Gate, false);
+poses[70] = new YogaPose("", "Goddess", gameController.yogaSprites[70], null, YogaPoseType.Yoga_Pose_Goddess, false);
+poses[71] = new YogaPose("", "Half Frog", gameController.yogaSprites[71], null, YogaPoseType.Yoga_Pose_Half_Frog, false);
+poses[72] = new YogaPose("", "Half Lord of the Fishes", gameController.yogaSprites[72], null, YogaPoseType.Yoga_Pose_Half_Lord_of_the_Fishes, false);
+poses[73] = new YogaPose("", "Half Moon", gameController.yogaSprites[73], null, YogaPoseType.Yoga_Pose_Half_Moon, false);
+poses[74] = new YogaPose("", "Half Plank", gameController.yogaSprites[74], null, YogaPoseType.Yoga_Pose_Half_Plank, false);
+poses[75] = new YogaPose("", "Half Split", gameController.yogaSprites[75], null, YogaPoseType.Yoga_Pose_Half_Split, false);
+poses[76] = new YogaPose("", "Handstand", gameController.yogaSprites[76], null, YogaPoseType.Yoga_Pose_Handstand, false);
+poses[77] = new YogaPose("", "Happy Baby", gameController.yogaSprites[77], null, YogaPoseType.Yoga_Pose_Happy_Baby, false);
+poses[78] = new YogaPose("", "Headstand", gameController.yogaSprites[78], null, YogaPoseType.Yoga_Pose_Headstand, false);
+poses[79] = new YogaPose("", "Hero", gameController.yogaSprites[79], null, YogaPoseType.Yoga_Pose_Hero, false);
+poses[80] = new YogaPose("", "Heron", gameController.yogaSprites[80], null, YogaPoseType.Yoga_Pose_Heron, false);
+poses[81] = new YogaPose("", "High Lunge Twist", gameController.yogaSprites[81], null, YogaPoseType.Yoga_Pose_High_Lunge_Twist, false);
+poses[82] = new YogaPose("", "High Lunge", gameController.yogaSprites[82], null, YogaPoseType.Yoga_Pose_High_Lunge, false);
+poses[83] = new YogaPose("", "Humble Warrior", gameController.yogaSprites[83], null, YogaPoseType.Yoga_Pose_Humble_Warrior, false);
+poses[84] = new YogaPose("", "Hurdler", gameController.yogaSprites[84], null, YogaPoseType.Yoga_Pose_Hurdler, false);
+poses[85] = new YogaPose("", "Knee to Nose", gameController.yogaSprites[85], null, YogaPoseType.Yoga_Pose_Knee_to_Nose, false);
+poses[86] = new YogaPose("", "Knees to Chest", gameController.yogaSprites[86], null, YogaPoseType.Yoga_Pose_Knees_to_Chest, false);
+poses[87] = new YogaPose("", "Legs up the Wall", gameController.yogaSprites[87], null, YogaPoseType.Yoga_Pose_Legs_up_the_Wall, false);
+poses[88] = new YogaPose("", "Lizard", gameController.yogaSprites[88], null, YogaPoseType.Yoga_Pose_Lizard, false);
+poses[89] = new YogaPose("", "Locust", gameController.yogaSprites[89], null, YogaPoseType.Yoga_Pose_Locust, false);
+poses[90] = new YogaPose("", "Lotus in Shoulder Stand", gameController.yogaSprites[90], null, YogaPoseType.Yoga_Pose_Lotus_in_Shoulder_Stand, false);
+poses[91] = new YogaPose("", "Lotus version", gameController.yogaSprites[91], null, YogaPoseType.Yoga_Pose_Lotus_version, false);
+poses[92] = new YogaPose("", "Lotus", gameController.yogaSprites[92], null, YogaPoseType.Yoga_Pose_Lotus, false);
+poses[93] = new YogaPose("", "Low Lunge", gameController.yogaSprites[93], null, YogaPoseType.Yoga_Pose_Low_Lunge, false);
+poses[94] = new YogaPose("", "Mermaid", gameController.yogaSprites[94], null, YogaPoseType.Yoga_Pose_Mermaid, false);
+poses[95] = new YogaPose("", "Monkey", gameController.yogaSprites[95], null, YogaPoseType.Yoga_Pose_Monkey, false);
+poses[96] = new YogaPose("", "Mountain", gameController.yogaSprites[96], null, YogaPoseType.Yoga_Pose_Mountain, false);
+poses[97] = new YogaPose("", "Noose", gameController.yogaSprites[97], null, YogaPoseType.Yoga_Pose_Noose, false);
+poses[98] = new YogaPose("", "One Legged Forward Fold", gameController.yogaSprites[98], null, YogaPoseType.Yoga_Pose_One_Legged_Forward_Fold, false);
+poses[99] = new YogaPose("", "One Legged King Pigeon", gameController.yogaSprites[99], null, YogaPoseType.Yoga_Pose_One_Legged_King_Pigeon, false);
+poses[100] = new YogaPose("", "One Legged Pigeon", gameController.yogaSprites[100], null, YogaPoseType.Yoga_Pose_One_Legged_Pigeon, false);
+poses[101] = new YogaPose("", "Peacock", gameController.yogaSprites[101], null, YogaPoseType.Yoga_Pose_Peacock, false);
+poses[102] = new YogaPose("", "Pentacle", gameController.yogaSprites[102], null, YogaPoseType.Yoga_Pose_Pentacle, false);
+poses[103] = new YogaPose("", "Pigeon Standing Squat", gameController.yogaSprites[103], null, YogaPoseType.Yoga_Pose_Pigeon_Standing_Squat, false);
+poses[104] = new YogaPose("", "Pigeon", gameController.yogaSprites[104], null, YogaPoseType.Yoga_Pose_Pigeon, false);
+poses[105] = new YogaPose("", "Plank", gameController.yogaSprites[105], null, YogaPoseType.Yoga_Pose_Plank, false);
+poses[106] = new YogaPose("", "Plow version", gameController.yogaSprites[106], null, YogaPoseType.Yoga_Pose_Plow_version, false);
+poses[107] = new YogaPose("", "Plow", gameController.yogaSprites[107], null, YogaPoseType.Yoga_Pose_Plow, false);
+poses[108] = new YogaPose("", "Pose Dedicated to the Sage Marichi I", gameController.yogaSprites[108], null, YogaPoseType.Yoga_Pose_Pose_Dedicated_to_the_Sage_Marichi_I, false);
+poses[109] = new YogaPose("", "Pose Dedicated to the Sage Marichi II", gameController.yogaSprites[109], null, YogaPoseType.Yoga_Pose_Pose_Dedicated_to_the_Sage_Marichi_II, false);
+poses[110] = new YogaPose("", "Pyramid version", gameController.yogaSprites[110], null, YogaPoseType.Yoga_Pose_Pyramid_version, false);
+poses[111] = new YogaPose("", "Pyramid", gameController.yogaSprites[111], null, YogaPoseType.Yoga_Pose_Pyramid, false);
+poses[112] = new YogaPose("", "Rabbit", gameController.yogaSprites[112], null, YogaPoseType.Yoga_Pose_Rabbit, false);
+poses[113] = new YogaPose("", "Reclined One Leg Stretch", gameController.yogaSprites[113], null, YogaPoseType.Yoga_Pose_Reclined_One_Leg_Stretch, false);
+poses[114] = new YogaPose("", "Reclining Bound Angle", gameController.yogaSprites[114], null, YogaPoseType.Yoga_Pose_Reclining_Bound_Angle, false);
+poses[115] = new YogaPose("", "Reclining Butterfly", gameController.yogaSprites[115], null, YogaPoseType.Yoga_Pose_Reclining_Butterfly, false);
+poses[116] = new YogaPose("", "Reclining Hand to Big Toe", gameController.yogaSprites[116], null, YogaPoseType.Yoga_Pose_Reclining_Hand_to_Big_Toe, false);
+poses[117] = new YogaPose("", "Reclining Pigeon", gameController.yogaSprites[117], null, YogaPoseType.Yoga_Pose_Reclining_Pigeon, false);
+poses[118] = new YogaPose("", "Reclining Spinal Twist", gameController.yogaSprites[118], null, YogaPoseType.Yoga_Pose_Reclining_Spinal_Twist, false);
+poses[119] = new YogaPose("", "Reverse Table Top", gameController.yogaSprites[119], null, YogaPoseType.Yoga_Pose_Reverse_Table_Top, false);
+poses[120] = new YogaPose("", "Reverse Warrior", gameController.yogaSprites[120], null, YogaPoseType.Yoga_Pose_Reverse_Warrior, false);
+poses[121] = new YogaPose("", "Revolved Chair version", gameController.yogaSprites[121], null, YogaPoseType.Yoga_Pose_Revolved_Chair_version, false);
+poses[122] = new YogaPose("", "Revolved Chair", gameController.yogaSprites[122], null, YogaPoseType.Yoga_Pose_Revolved_Chair, false);
+poses[123] = new YogaPose("", "Revolved Half Moon", gameController.yogaSprites[123], null, YogaPoseType.Yoga_Pose_Revolved_Half_Moon, false);
+poses[124] = new YogaPose("", "Revolved Hand to Big Toe", gameController.yogaSprites[124], null, YogaPoseType.Yoga_Pose_Revolved_Hand_to_Big_Toe, false);
+poses[125] = new YogaPose("", "Revolved Head to Knee", gameController.yogaSprites[125], null, YogaPoseType.Yoga_Pose_Revolved_Head_to_Knee, false);
+poses[126] = new YogaPose("", "Revolved Side Angle", gameController.yogaSprites[126], null, YogaPoseType.Yoga_Pose_Revolved_Side_Angle, false);
+poses[127] = new YogaPose("", "Revolved Triangle", gameController.yogaSprites[127], null, YogaPoseType.Yoga_Pose_Revolved_Triangle, false);
+poses[128] = new YogaPose("", "Saddle", gameController.yogaSprites[128], null, YogaPoseType.Yoga_Pose_Saddle, false);
+poses[129] = new YogaPose("", "Scale", gameController.yogaSprites[129], null, YogaPoseType.Yoga_Pose_Scale, false);
+poses[130] = new YogaPose("", "Scorpion", gameController.yogaSprites[130], null, YogaPoseType.Yoga_Pose_Scorpion, false);
+poses[131] = new YogaPose("", "Seal", gameController.yogaSprites[131], null, YogaPoseType.Yoga_Pose_Seal, false);
+poses[132] = new YogaPose("", "Seated Forward Bend", gameController.yogaSprites[132], null, YogaPoseType.Yoga_Pose_Seated_Forward_Bend, false);
+poses[133] = new YogaPose("", "Seated Forward Fold", gameController.yogaSprites[133], null, YogaPoseType.Yoga_Pose_Seated_Forward_Fold, false);
+poses[134] = new YogaPose("", "Seated Spinal Twist", gameController.yogaSprites[134], null, YogaPoseType.Yoga_Pose_Seated_Spinal_Twist, false);
+poses[135] = new YogaPose("", "Seated Straddle", gameController.yogaSprites[135], null, YogaPoseType.Yoga_Pose_Seated_Straddle, false);
+poses[136] = new YogaPose("", "Shoelace", gameController.yogaSprites[136], null, YogaPoseType.Yoga_Pose_Shoelace, false);
+poses[137] = new YogaPose("", "Shoulder Pressing", gameController.yogaSprites[137], null, YogaPoseType.Yoga_Pose_Shoulder_Pressing, false);
+poses[138] = new YogaPose("", "Shoulder Stand", gameController.yogaSprites[138], null, YogaPoseType.Yoga_Pose_Shoulder_Stand, false);
+poses[139] = new YogaPose("", "Side Angle", gameController.yogaSprites[139], null, YogaPoseType.Yoga_Pose_Side_Angle, false);
+poses[140] = new YogaPose("", "Side Crow", gameController.yogaSprites[140], null, YogaPoseType.Yoga_Pose_Side_Crow, false);
+poses[141] = new YogaPose("", "Side Plank version", gameController.yogaSprites[141], null, YogaPoseType.Yoga_Pose_Side_Plank_version, false);
+poses[142] = new YogaPose("", "Side Plank", gameController.yogaSprites[142], null, YogaPoseType.Yoga_Pose_Side_Plank, false);
+poses[143] = new YogaPose("", "Side Reclining Leg Lift", gameController.yogaSprites[143], null, YogaPoseType.Yoga_Pose_Side_Reclining_Leg_Lift, false);
+poses[144] = new YogaPose("", "Sleeping Swan", gameController.yogaSprites[144], null, YogaPoseType.Yoga_Pose_Sleeping_Swan, false);
+poses[145] = new YogaPose("", "Snail", gameController.yogaSprites[145], null, YogaPoseType.Yoga_Pose_Snail, false);
+poses[146] = new YogaPose("", "Sphinx", gameController.yogaSprites[146], null, YogaPoseType.Yoga_Pose_Sphinx, false);
+poses[147] = new YogaPose("", "Square", gameController.yogaSprites[147], null, YogaPoseType.Yoga_Pose_Square, false);
+poses[148] = new YogaPose("", "Staff", gameController.yogaSprites[148], null, YogaPoseType.Yoga_Pose_Staff, false);
+poses[149] = new YogaPose("", "Standing Back Bend", gameController.yogaSprites[149], null, YogaPoseType.Yoga_Pose_Standing_Back_Bend, false);
+poses[150] = new YogaPose("", "Standing Bow", gameController.yogaSprites[150], null, YogaPoseType.Yoga_Pose_Standing_Bow, false);
+poses[151] = new YogaPose("", "Standing Hand to Big Toe", gameController.yogaSprites[151], null, YogaPoseType.Yoga_Pose_Standing_Hand_to_Big_Toe, false);
+poses[152] = new YogaPose("", "Standing Prayer", gameController.yogaSprites[152], null, YogaPoseType.Yoga_Pose_Standing_Prayer, false);
+poses[153] = new YogaPose("", "Standing Side Bend", gameController.yogaSprites[153], null, YogaPoseType.Yoga_Pose_Standing_Side_Bend, false);
+poses[154] = new YogaPose("", "Standing Split", gameController.yogaSprites[154], null, YogaPoseType.Yoga_Pose_Standing_Split, false);
+poses[155] = new YogaPose("", "Supine Twist", gameController.yogaSprites[155], null, YogaPoseType.Yoga_Pose_Supine_Twist, false);
+poses[156] = new YogaPose("", "Supported Shoulder Stand", gameController.yogaSprites[156], null, YogaPoseType.Yoga_Pose_Supported_Shoulder_Stand, false);
+poses[157] = new YogaPose("", "Table", gameController.yogaSprites[157], null, YogaPoseType.Yoga_Pose_Table, false);
+poses[158] = new YogaPose("", "Temple Twist", gameController.yogaSprites[158], null, YogaPoseType.Yoga_Pose_Temple_Twist, false);
+poses[159] = new YogaPose("", "Thread the Needle", gameController.yogaSprites[159], null, YogaPoseType.Yoga_Pose_Thread_the_Needle, false);
+poses[160] = new YogaPose("", "Three Legged Dog", gameController.yogaSprites[160], null, YogaPoseType.Yoga_Pose_Three_Legged_Dog, false);
+poses[161] = new YogaPose("", "Three Limbed Forward Bend", gameController.yogaSprites[161], null, YogaPoseType.Yoga_Pose_Three_Limbed_Forward_Bend, false);
+poses[162] = new YogaPose("", "Tiger", gameController.yogaSprites[162], null, YogaPoseType.Yoga_Pose_Tiger, false);
+poses[163] = new YogaPose("", "Toe Squat", gameController.yogaSprites[163], null, YogaPoseType.Yoga_Pose_Toe_Squat, false);
+poses[164] = new YogaPose("", "Toe Stand Garland", gameController.yogaSprites[164], null, YogaPoseType.Yoga_Pose_Toe_Stand_Garland, false);
+poses[165] = new YogaPose("", "Toe Stand", gameController.yogaSprites[165], null, YogaPoseType.Yoga_Pose_Toe_Stand, false);
+poses[166] = new YogaPose("", "Tree version I", gameController.yogaSprites[166], null, YogaPoseType.Yoga_Pose_Tree_version_I, false);
+poses[167] = new YogaPose("", "Tree version", gameController.yogaSprites[167], null, YogaPoseType.Yoga_Pose_Tree_version, false);
+poses[168] = new YogaPose("", "Tree", gameController.yogaSprites[168], null, YogaPoseType.Yoga_Pose_Tree, false);
+poses[169] = new YogaPose("", "Triangle", gameController.yogaSprites[169], null, YogaPoseType.Yoga_Pose_Triangle, false);
+poses[170] = new YogaPose("", "Tripod", gameController.yogaSprites[170], null, YogaPoseType.Yoga_Pose_Tripod, false);
+poses[171] = new YogaPose("", "Upward Facing Dog", gameController.yogaSprites[171], null, YogaPoseType.Yoga_Pose_Upward_Facing_Dog, false);
+poses[172] = new YogaPose("", "Upward Facing Two Foot Staff", gameController.yogaSprites[172], null, YogaPoseType.Yoga_Pose_Upward_Facing_Two_Foot_Staff, false);
+poses[173] = new YogaPose("", "Upward Plank", gameController.yogaSprites[173], null, YogaPoseType.Yoga_Pose_Upward_Plank, false);
+poses[174] = new YogaPose("", "Warrior I", gameController.yogaSprites[174], null, YogaPoseType.Yoga_Pose_Warrior_I, false);
+poses[175] = new YogaPose("", "Warrior II", gameController.yogaSprites[175], null, YogaPoseType.Yoga_Pose_Warrior_II, false);
+poses[176] = new YogaPose("", "Warrior III with Airplane Arms", gameController.yogaSprites[176], null, YogaPoseType.Yoga_Pose_Warrior_III_with_Airplane_Arms, false);
+poses[177] = new YogaPose("", "Warrior III", gameController.yogaSprites[177], null, YogaPoseType.Yoga_Pose_Warrior_III, false);
+poses[178] = new YogaPose("", "Wheel version", gameController.yogaSprites[178], null, YogaPoseType.Yoga_Pose_Wheel_version, false);
+poses[179] = new YogaPose("", "Wheel", gameController.yogaSprites[179], null, YogaPoseType.Yoga_Pose_Wheel, false);
+poses[180] = new YogaPose("", "Wide Legged Boat", gameController.yogaSprites[180], null, YogaPoseType.Yoga_Pose_Wide_Legged_Boat, false);
+poses[181] = new YogaPose("", "Wide Legged Forward Fold version", gameController.yogaSprites[181], null, YogaPoseType.Yoga_Pose_Wide_Legged_Forward_Fold_version, false);
+poses[182] = new YogaPose("", "Wide Legged Forward Fold", gameController.yogaSprites[182], null, YogaPoseType.Yoga_Pose_Wide_Legged_Forward_Fold, false);
+poses[183] = new YogaPose("", "Wild Thing", gameController.yogaSprites[183], null, YogaPoseType.Yoga_Pose_Wild_Thing, false);
